@@ -12,7 +12,7 @@ public class Login extends javax.swing.JFrame {
         initComponents();
         modifyVisibility1();
     }
-
+//just to check if git works in the way i think.
     /** This method is called from within the constructor to
      * initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is
